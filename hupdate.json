@@ -1,0 +1,9 @@
+{
+    "file":"http://f0609754.xsph.ru/Hydra/Hydra.luac",
+    "version":"Pascal Build 7",
+    "change_log":"- Добавлен чекер и все настройки для него.\n- Переработаны пару меню.\n- Добавлены профили и их настройка.\n- Добавлен детектор рванки и настройки для него.\n- Фикс админ-форм.",
+    "beta_upd":false,
+    "beta_file":"http://f0609754.xsph.ru/Hydra/Hydra.lua",
+    "beta_version":"Pascal Build 8",
+    "beta_changelog":"glglglglgllg"
+}
