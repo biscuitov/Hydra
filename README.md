@@ -1,5 +1,5 @@
 # Hydra
-Hydra (Admin Tools for Village RolePlay)
+ - Admin Tools for Village RolePlay
 
 # Requirements:
  - VKeys
