@@ -14,6 +14,7 @@
  - MoonToast
 
 # Moonloader Version:
- - 0.26
+ - 0.26 Beta
+ - 0.27 Preview
 
 
