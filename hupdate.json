@@ -1,9 +1,9 @@
 {
-    "file":"https://github.com/biscuitov/Hydra/blob/main/Hydra.luac",
+    "file":"https://raw.githubusercontent.com/biscuitov/Hydra/main/Hydra.luac",
     "version":"Pascal Build 10",
     "change_log":"- Проводится работа по обновлению дизайна скрипта.\n- Пофикшено переключение профилей.\n- Проведена работа по оптимизации кода.\n- Теперь можно закрывать меню на ESC.\n- Пофикшены ",
     "beta_upd":false,
-    "beta_file":"https://github.com/biscuitov/Hydra/blob/main/Hydra.luac",
+    "beta_file":"https://raw.githubusercontent.com/biscuitov/Hydra/main/Hydra.luac",
     "beta_version":"Pascal Beta 11",
     "beta_changelog":"-"
 }
