@@ -1,6 +1,6 @@
 {
     "file":"http://f0609754.xsph.ru/Hydra/Hydra.luac",
-    "version":"Pascal Build 10",
+    "version":"Pascal Build 7",
     "change_log":"- Проводится работа по обновлению дизайна скрипта.\n- Пофикшено переключение профилей.\n- Проведена работа по оптимизации кода.\n- Теперь можно закрывать меню на ESC.\n- Пофикшены ",
     "beta_upd":false,
     "beta_file":"http://f0609754.xsph.ru/Hydra/Hydra.lua",
