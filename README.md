@@ -1,5 +1,5 @@
 # Hydra
- - Admin Tools for Village RolePlay
+ - Project Hydra
 
 # Requirements:
  - VKeys
@@ -13,8 +13,5 @@
  - MoonMonet
  - MoonToast
 
-# Moonloader Version:
- - 0.26 Beta
- - 0.27 Preview
 
 
